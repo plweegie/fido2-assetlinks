@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls","delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.backbase.android.identitytestapp",
+      "sha256_cert_fingerprints": [
+        "9E:0B:D4:BE:5A:83:27:47:03:85:2A:67:DF:69:56:A5:23:A1:D5:9F:A0:C6:0A:0A:61:85:1A:18:D4:FD:14:EB"
+      ]
+    }
+  }
+]
